@@ -10,9 +10,7 @@ const root = ReactDOM.createRoot(
 root.render(
   <React.StrictMode>
     <App />
-      <p>New line</p>
-      <p>kwgefh</p>
-      <p>new email</p>
+      <div>Hello world</div>
   </React.StrictMode>
 );
 
