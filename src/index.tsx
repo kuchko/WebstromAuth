@@ -12,6 +12,7 @@ root.render(
     <App />
       <p>New line</p>
       <p>kwgefh</p>
+      <p>new email</p>
   </React.StrictMode>
 );
 
