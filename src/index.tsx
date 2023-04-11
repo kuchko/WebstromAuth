@@ -12,6 +12,7 @@ root.render(
     <App />
       //aefsfsfesfsfp
       <p>Hello</p>
+      <div>Helo</div>
   </React.StrictMode>
 );
 
